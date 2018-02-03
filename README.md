@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/27119316/35769914-a629b53e-08e0-11e8-9d6e-1cd441f0dbb3.png)
 
-###Abstract
+### Abstract
 
 To perfume multi object recognition I used combination of 2 different algorithm. First, the object proposal algorithm and second the convolutional neural network classifier. For Object proposal, I used selective search and for convolutional neural network I used Alex net. To test and to train I used pascal visual object dataset which contain 17,125 Images.
 
@@ -25,7 +25,7 @@ I will combine both the algorithm selective search and Alex net, to use it as ob
 
           Methodologies:
 
-####Alex Net:
+##### Alex Net:
 
 Alex net has 8 layers. The first 5 are convolutional and the last 3 are fully connected layers. In between we also have some ‘layers’ called pooling and activation.
 
@@ -90,28 +90,28 @@ These are the few examples of correctly recognized Images.
 
 ![image](https://user-images.githubusercontent.com/27119316/35769944-1da7837a-08e1-11e8-80af-e1d949c42ba8.png)
 
-Correct prediction: Cycle
+#### Correct prediction: Cycle
 
 ![image](https://user-images.githubusercontent.com/27119316/35769949-24df3656-08e1-11e8-8c15-845abf63cc55.png)
 
-Correct prediction: person
+#### Correct prediction: person
 
 
 ![image](https://user-images.githubusercontent.com/27119316/35769951-2871e3d6-08e1-11e8-9116-b821f7e25cf8.png)
 
-Correct prediction: Chair
+#### Correct prediction: Chair
 
 But as the accuracy is 30.9% there are many incorrectly classified Images also.
 
 
 ![image](https://user-images.githubusercontent.com/27119316/35769955-363f3928-08e1-11e8-887e-60d9369f712f.png)
 
-Incorrect prediction: Cat
+#### Incorrect prediction: Cat
 
 
 ![image](https://user-images.githubusercontent.com/27119316/35769962-3aece2fe-08e1-11e8-8ef3-c6c7db83841d.png)
 
-Incorrect prediction: Tv monitor
+#### Incorrect prediction: Tv monitor
 
 
            Conclusion:
