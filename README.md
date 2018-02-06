@@ -7,7 +7,7 @@
 
 ### Abstract
 
-To perfume multi object recognition I used combination of 2 different algorithm. First, the object proposal algorithm and second the convolutional neural network classifier. For Object proposal, I used selective search and for convolutional neural network I used Alex net. To test and to train I used pascal visual object dataset which contain 17,125 Images.
+To perform multi object recognition I used combination of 2 different algorithm. First, the object proposal algorithm and second the convolutional neural network classifier. For Object proposal, I used selective search and for convolutional neural network I used Alex net. To test and to train I used pascal visual object dataset which contain 17,125 Images.
 
            I. INTRODUCTION
   
